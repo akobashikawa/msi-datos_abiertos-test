@@ -12,7 +12,7 @@ Para probar el API de datos abiertos de la Municipalidad de San Isidro.
 - `$ npm install`
 - `$ npm start`
 - Entrar a: `http://localhost:3000`
-- 
+
 ## Para conseguir el API Key
 
 - Entrar a http://datosabiertos.msi.gob.pe/developers
