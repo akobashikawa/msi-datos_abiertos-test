@@ -2,6 +2,9 @@
 
 Para probar el API de datos abiertos de la Municipalidad de San Isidro.
 
+> __Nota:__ Este ejemplo muestra jQuery + Bootstrap + AngularJS en el cliente y NodeJS en el servidor.
+> Para ver un ejemplo usando únicamente cliente: https://github.com/akobashikawa/msi-datos_abiertos-test-angular/
+
 ## Requiere
 
 - Tener instalado NodeJS. Para comprobarlo: `$ node --version`
